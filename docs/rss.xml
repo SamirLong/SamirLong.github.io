@@ -1,2 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://SamirLong.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://SamirLong.github.io</link></image><lastBuildDate>Mon, 13 Apr 2026 07:28:15 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>111</title><link>https://SamirLong.github.io/post/111.html</link><guid isPermaLink="true">https://SamirLong.github.io/post/111.html</guid><pubDate>Mon, 13 Apr 2026 07:26:41 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://SamirLong.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://SamirLong.github.io</link></image><lastBuildDate>Mon, 13 Apr 2026 07:36:05 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试</title><link>https://SamirLong.github.io/post/ce-shi.html</link><description>---
+title: 文章标题
+date: 2026-04-13
+author: 作者名
+cover: /images/cover.jpg
+tags: [标签1, 标签2]
+category: 分类
+excerpt: 这是一段简短的摘要，出现在文章列表页...
+---
+
+&gt; 开头引用/金句，放在文章最前面
+
+## 目录
+- [概述](#概述)
+- [背景介绍](#背景介绍)
+- [核心内容](#核心内容)
+- [实践步骤](#实践步骤)
+- [代码示例](#代码示例)
+- [常见问题](#常见问题)
+- [总结](#总结)
+- [参考资料](#参考资料)
+
+---
+
+## 概述
+
+用 2-3 句话概括本文要讲什么，解决什么问题。</description><guid isPermaLink="true">https://SamirLong.github.io/post/ce-shi.html</guid><pubDate>Mon, 13 Apr 2026 07:35:34 +0000</pubDate></item><item><title>111</title><link>https://SamirLong.github.io/post/111.html</link><guid isPermaLink="true">https://SamirLong.github.io/post/111.html</guid><pubDate>Mon, 13 Apr 2026 07:26:41 +0000</pubDate></item></channel></rss>
