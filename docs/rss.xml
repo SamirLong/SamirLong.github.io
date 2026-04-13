@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Samir技术分享博客</title><link>https://SamirLong.github.io</link><description>分享技术，爱折腾</description><copyright>Samir技术分享博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://p3-pc-sign.douyinpic.com/aweme-avatar/tos-cn-i-0813c001_o0AfmjEgNnAFHEDODO9c58fXAtDVACAIhA2m9w~tplv-8yspqt5zfm-300x300.webp?lk3s=93de098e&amp;x-expires=1776236400&amp;x-signature=RFrCBkAdXSae18qyUt5TnMj0Yek%3D&amp;from=2480802190&amp;s=profile&amp;se=false&amp;sc=avatar&amp;l=202604131533453E392785EC1E9BDE19E3</url><title>avatar</title><link>https://SamirLong.github.io</link></image><lastBuildDate>Mon, 13 Apr 2026 11:49:05 +0000</lastBuildDate><managingEditor>Samir技术分享博客</managingEditor><ttl>60</ttl><webMaster>Samir技术分享博客</webMaster><item><title>如何在飞牛用虚拟机部署iStoreOS</title><link>https://SamirLong.github.io/post/ru-he-zai-fei-niu-yong-xu-ni-ji-bu-shu-iStoreOS.html</link><description># 下载iStoreOS镜像
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Samir技术分享博客</title><link>https://SamirLong.github.io</link><description>分享技术，爱折腾</description><copyright>Samir技术分享博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://p3-pc-sign.douyinpic.com/aweme-avatar/tos-cn-i-0813c001_o0AfmjEgNnAFHEDODO9c58fXAtDVACAIhA2m9w~tplv-8yspqt5zfm-300x300.webp?lk3s=93de098e&amp;x-expires=1776236400&amp;x-signature=RFrCBkAdXSae18qyUt5TnMj0Yek%3D&amp;from=2480802190&amp;s=profile&amp;se=false&amp;sc=avatar&amp;l=202604131533453E392785EC1E9BDE19E3</url><title>avatar</title><link>https://SamirLong.github.io</link></image><lastBuildDate>Mon, 13 Apr 2026 11:50:16 +0000</lastBuildDate><managingEditor>Samir技术分享博客</managingEditor><ttl>60</ttl><webMaster>Samir技术分享博客</webMaster><item><title>如何在飞牛用虚拟机部署iStoreOS</title><link>https://SamirLong.github.io/post/ru-he-zai-fei-niu-yong-xu-ni-ji-bu-shu-iStoreOS.html</link><description># 下载iStoreOS镜像
 打开官网：https://site.istoreos.com/firmware
 根据自己的机型下载镜像
 
@@ -61,30 +61,4 @@ GPU保持默认
 点击刷新
 点击自动填写
 关闭提供DHCPv4服务
-点击保存配置。</description><guid isPermaLink="true">https://SamirLong.github.io/post/ru-he-zai-fei-niu-yong-xu-ni-ji-bu-shu-iStoreOS.html</guid><pubDate>Mon, 13 Apr 2026 11:48:36 +0000</pubDate></item><item><title>测试</title><link>https://SamirLong.github.io/post/ce-shi.html</link><description>---
-title: 文章标题
-date: 2026-04-13
-author: 作者名
-cover: /images/cover.jpg
-tags: [标签1, 标签2]
-category: 分类
-excerpt: 这是一段简短的摘要，出现在文章列表页...
----
-
-&gt; 开头引用/金句，放在文章最前面
-
-## 目录
-- [概述](#概述)
-- [背景介绍](#背景介绍)
-- [核心内容](#核心内容)
-- [实践步骤](#实践步骤)
-- [代码示例](#代码示例)
-- [常见问题](#常见问题)
-- [总结](#总结)
-- [参考资料](#参考资料)
-
----
-
-## 概述
-
-用 2-3 句话概括本文要讲什么，解决什么问题。</description><guid isPermaLink="true">https://SamirLong.github.io/post/ce-shi.html</guid><pubDate>Mon, 13 Apr 2026 07:35:34 +0000</pubDate></item></channel></rss>
+点击保存配置。</description><guid isPermaLink="true">https://SamirLong.github.io/post/ru-he-zai-fei-niu-yong-xu-ni-ji-bu-shu-iStoreOS.html</guid><pubDate>Mon, 13 Apr 2026 11:48:36 +0000</pubDate></item></channel></rss>
