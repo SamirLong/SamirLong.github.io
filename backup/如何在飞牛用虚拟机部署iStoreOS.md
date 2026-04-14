@@ -5,6 +5,8 @@
 <img width="2552" height="994" alt="Image" src="https://github.com/user-attachments/assets/abfac3e5-9559-4fe8-b6bd-bce27e9974a9" />
 
 下载好的镜像放到飞牛的磁盘里面备用
+# 打开ovs
+打开飞牛的设置-网络设置-右上角三个点-打开ovs
 # 飞牛配置虚拟机
 打开飞牛应用市场下载虚拟机
 打开虚拟机创建虚拟机
